@@ -17,12 +17,6 @@ A escala horizontal se refere à capacidade do um sistema de lidar com um aument
 A escalabiblidade refere-se à capacidade de ajustar recursos para atender à demanda,  significa que voce poderá adicionar mais recursos para lidar melhor com o aumento da demanda.
 A elasticidade, por sua vez, é a capacidade de um sistema de se adaptar automaticamente à demanda em tempo real. É como ter uma arquitetura que se ajusta sozinha ao tamanho da sua demanda, crescendo ou diminuindo conforme necessário.
 
-### Confiabilidade, Previsibilidade e Segurança
-Confiabilidade: Resiliência é a capacidade que um sistema tem de se recuperar de falhas e continuar funcionando. 
-Devido ao design descentralizado, a nuvem naturalmente dá suporte a uma infraestrutura confiável e resiliente. Com um design descentralizado, a nuvem permite que você tenha recursos implantados em várias regiões do mundo. Com essa escala global, mesmo que ocorra um evento catastrófico em uma região, as outras regiões ainda estarão em funcionamento.
-Previsibilidade: A previsibilidade na nuvem permite que você avance com confiança. A previsibilidade pode se concentrar na previsibilidade de desempenho ou na previsibilidade de custo.
-Segurança: A nuvem oferece ferramentas de segurança que atendem às necessidades dos clientes mas, é importante lembrar que a implementação de muitas delas devem ser realizadas pelo cliente.
-
 ### Modelos de nuvem: Nuvem privada, nuvem pública e nuvem hibrida
 Uma nuvem privada é, de certa forma, a evolução natural de um datacenter corporativo. Ela é uma nuvem (que fornece serviços de TI pela Internet) usada por uma única entidade. A nuvem privada fornece um controle muito maior para a empresa e o departamento de TI. No entanto, ela também tem mais custos e menos benefícios em relação a uma implantação de nuvem pública. 
 Uma nuvem pública é criada, controlada e mantida por um provedor de nuvem de terceiros. Com uma nuvem pública, qualquer pessoa que queira comprar serviços de nuvem pode acessar e usar os recursos. A disponibilidade pública geral é uma diferença fundamental entre nuvens públicas e privadas.
@@ -32,6 +26,12 @@ Uma nuvem híbrida é um ambiente de computação que usa nuvens públicas e pri
 Há dois tipos de despesas a serem consideradas. CapEx (despesas de capital) e OpEx (despesas operacionais).
 A CapEx normalmente é uma despesa inicial única para comprar ou proteger recursos tangíveis. Um prédio novo.
 OpEx é o gasto de capital em serviços ou produtos ao longo do tempo. O aluguel de um centro de convenções.
+
+### Confiabilidade, Previsibilidade e Segurança
+Confiabilidade: Resiliência é a capacidade que um sistema tem de se recuperar de falhas e continuar funcionando. 
+Devido ao design descentralizado, a nuvem naturalmente dá suporte a uma infraestrutura confiável e resiliente. Com um design descentralizado, a nuvem permite que você tenha recursos implantados em várias regiões do mundo. Com essa escala global, mesmo que ocorra um evento catastrófico em uma região, as outras regiões ainda estarão em funcionamento.
+Previsibilidade: A previsibilidade na nuvem permite que você avance com confiança. A previsibilidade pode se concentrar na previsibilidade de desempenho ou na previsibilidade de custo.
+Segurança: A nuvem oferece ferramentas de segurança que atendem às necessidades dos clientes mas, é importante lembrar que a implementação de muitas delas devem ser realizadas pelo cliente.
 
 ### Governança e gerenciabilidade
 Gerenciamento na nuvem:
