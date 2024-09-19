@@ -39,6 +39,7 @@ Gerenciamento na nuvem:
 - Implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual.
 - Monitorar a integridade dos recursos e substituir automaticamente os recursos com falha.
 Receber alertas automáticos com base em métricas configuradas, de modo a ficar ciente do desempenho em tempo real.
+
 Como voce pode gerencia-los:
 - Por meio de um portal da Web.
 - Usando uma interface de linha de comando.
